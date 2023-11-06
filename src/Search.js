@@ -22,7 +22,7 @@ export default function Search() {
         />
         <input type="submit" value="Search" />
       </form>
-      <h2 />
+      <h2>🙂</h2>
     </div>
   );
 }
