@@ -16,9 +16,7 @@ export default function App() {
           <div class="overview">
             <h1 id="city"></h1>
             <ul>
-              <li>
-                <Date />
-              </li>
+              <li></li>
               <Description value="Clear Skies" />
             </ul>
           </div>
@@ -61,6 +59,7 @@ export default function App() {
           <a
             href="https://github.com/apcastillo11/shecodes-weather-app-final-project"
             target="_blank"
+            rel="noreferrer"
           >
             Open-source code
           </a>
